@@ -2,5 +2,5 @@
 
 Test Report
 
-![Playwright Report Screenshot](./screenshots/report-preview.jpeg)
+![Playwright Report Screenshot](./tests/screenshots/report-preview.png)
 # Parabank-UI-Test
